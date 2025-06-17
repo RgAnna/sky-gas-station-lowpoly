@@ -2,9 +2,8 @@
 
 ![Project Preview](https://github.com/RgAnna/sky-gas-station-lowpoly/blob/main/Render/sky-gas-station-lowpoly_01.png)
 
-**Watch the animation here:**  
-[![Animation Video](https://img.youtube.com/vi/lDkRBe/0.jpg)](https://www.artstation.com/artwork/lDkRBe)
-
+## Showcase Video
+https://github.com/RgAnna/sky-gas-station-lowpoly/blob/main/Render/sky-gas-station-lowpoly_01.mp4
 
 ## Description
 
