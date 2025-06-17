@@ -1,9 +1,10 @@
 # Sky Gas Station (Low Poly)
 
-![Project Preview](https://github.com/RgAnna/sky-gas-station-lowpoly/blob/main/Render/sky-gas-station-lowpoly_01.png)
+![Project Preview](https://github.com/RgAnna/sky-gas-station-lowpoly/blob/main/sky-gas-station-lowpoly_01.gif)
 
-## Showcase Video
-https://github.com/RgAnna/sky-gas-station-lowpoly/blob/main/sky-gas-station-lowpoly_01.gif
+![Project Preview](https://github.com/RgAnna/sky-gas-station-lowpoly/blob/main/Render/Blank%204%20Grids%20Collage.png)
+
+
 
 ## Description
 
