@@ -2,6 +2,10 @@
 
 ![Project Preview](https://github.com/RgAnna/sky-gas-station-lowpoly/blob/main/Render/sky-gas-station-lowpoly_01.png)
 
+**Watch the animation here:**  
+[![Animation Video](https://img.youtube.com/vi/lDkRBe/0.jpg)](https://www.artstation.com/artwork/lDkRBe)
+
+
 ## Description
 
 This 3D scene depicts a stylized low poly gas station floating in the sky, featuring an animation of a car approaching and docking for refueling. The scene combines charming low poly aesthetics with smooth animation, ideal for games, presentations, or creative projects that require unique environments.
