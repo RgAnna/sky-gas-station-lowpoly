@@ -3,7 +3,7 @@
 ![Project Preview](https://github.com/RgAnna/sky-gas-station-lowpoly/blob/main/Render/sky-gas-station-lowpoly_01.png)
 
 ## Showcase Video
-https://github.com/RgAnna/sky-gas-station-lowpoly/blob/main/Render/sky-gas-station-lowpoly_01.mp4
+https://github.com/RgAnna/sky-gas-station-lowpoly/blob/main/sky-gas-station-lowpoly_01.mov
 
 ## Description
 
