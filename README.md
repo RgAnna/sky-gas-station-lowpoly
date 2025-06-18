@@ -33,7 +33,7 @@ This 3D scene depicts a stylized low poly gas station floating in the sky, featu
 [![Sketchfab](https://img.shields.io/badge/-Sketchfab-000000?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/RgAnna)
 
 
----
+---------------------------------------------------------------
 
 # Небесная Заправка (Low Poly)
 
